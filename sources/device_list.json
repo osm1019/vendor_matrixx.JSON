@@ -257,6 +257,24 @@
       "vendor": "Motorola",
       "model": "Moto G84",
       "active": true
+    },
+    {
+      "codename": "komodo",
+      "vendor": "Google",
+      "model": "Pixel 9 Pro XL",
+      "active": true
+    },
+    {
+      "codename": "caiman",
+      "vendor": "Google",
+      "model": "Pixel 9 Pro",
+      "active": true
+    },
+    {
+      "codename": "tokay",
+      "vendor": "Google",
+      "model": "Pixel 9",
+      "active": true
     }
   ]
 }
