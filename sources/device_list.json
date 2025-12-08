@@ -172,19 +172,19 @@
       "codename": "instantnoodle",
       "vendor": "OnePlus",
       "model": "OnePlus 8",
-      "active": true
+      "active": false
     },
     {
       "codename": "instantnoodlep",
       "vendor": "OnePlus",
       "model": "OnePlus 8 Pro",
-      "active": true
+      "active": false
     },
     {
       "codename": "kebab",
       "vendor": "OnePlus",
       "model": "OnePlus 8T",
-      "active": true
+      "active": false
     },
     {
     "codename": "lemonade",
