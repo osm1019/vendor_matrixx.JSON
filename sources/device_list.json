@@ -208,7 +208,7 @@
       "codename": "phoenix",
       "vendor": "Xiaomi",
       "model": "POCO X2",
-      "active": false
+      "active": true
     },
     {
       "codename": "surya",
