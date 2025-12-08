@@ -226,7 +226,7 @@
     "codename": "monet",
     "vendor": "Xiaomi",
     "model": "Mi 10 Lite",
-    "active": true
+    "active": false
     },
     {
     "codename": "haydn",
