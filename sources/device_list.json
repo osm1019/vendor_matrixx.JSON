@@ -88,55 +88,55 @@
       "codename": "f62",
       "vendor": "Samsung",
       "model": "Samsung Galaxy F62",
-      "active": true
+      "active": false
     },
     {
       "codename": "d1x",
       "vendor": "Samsung",
       "model": "Samsung Galaxy Note 10 5G",
-      "active": true
+      "active": false
     },
     {
       "codename": "d2x",
       "vendor": "Samsung",
       "model": "Samsung Galaxy Note 10+ 5G",
-      "active": true
+      "active": false
     },
     {
       "codename": "d2s",
       "vendor": "Samsung",
       "model": "Samsung Galaxy Note 10+",
-      "active": true
+      "active": false
     },
     {
       "codename": "d1",
       "vendor": "Samsung",
       "model": "Samsung Galaxy Note 10",
-      "active": true
+      "active": false
     },
     {
       "codename": "beyondx",
       "vendor": "Samsung",
       "model": "Samsung Galaxy S10 5G",
-      "active": true
+      "active": false
     },
     {
       "codename": "beyond2lte",
       "vendor": "Samsung",
       "model": "Samsung Galaxy S10+",
-      "active": true
+      "active": false
     },
     {
       "codename": "beyond1lte",
       "vendor": "Samsung",
       "model": "Samsung Galaxy S10",
-      "active": true
+      "active": false
     },
     {
       "codename": "beyond0lte",
       "vendor": "Samsung",
       "model": "Samsung Galaxy S10e",
-      "active": true
+      "active": false
     },
     {
       "codename": "dubai",
