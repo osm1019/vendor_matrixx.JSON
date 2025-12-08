@@ -214,7 +214,7 @@
       "codename": "surya",
       "vendor": "Xiaomi",
       "model": "POCO X3",
-      "active": true
+      "active": false
     },
     {
       "codename": "raphael",
